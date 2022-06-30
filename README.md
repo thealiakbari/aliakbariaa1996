@@ -8,6 +8,5 @@
 
 ![Visits](https://badges.pufler.dev/visits/aliakbariaa1996/aliakbariaa1996)
 ![Repos](https://badges.pufler.dev/repos/aliakbariaa1996)
-![Gists](https://badges.pufler.dev/gists/aliakbariaa1996)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aliakbariaa1996&include_all_commits=true&theme=merko)
